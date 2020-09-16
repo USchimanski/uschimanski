@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+In meiner Freizeit und auch im Beruf programmiere ich kleine Programme mit Go, Powershell, CSharp, Python und Bash. Von Beruf bin ich 2nd Level CAD Administrator bei einer Kanadischen Firma.
 <!--
 **USchimanski/uschimanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
