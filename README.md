@@ -2,6 +2,7 @@
 - 🔭 Work on differnet private projects with go, csharp, powershell, python and bash.
 
 ### News
+* 08.12.2024 Add new public repository "screeninfo" with PowerShell. 
 * 10.11.2021 Add new public repository "uptime". This is written with Powershell.
 <!--
 **USchimanski/uschimanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
